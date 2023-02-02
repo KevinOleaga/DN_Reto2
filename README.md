@@ -5,8 +5,8 @@ Proyecto basado en MERN STACK
 ## Reto #2: Un segundo hace la diferencia
 
 Documentación:
-     |__ [Reto](https://drive.google.com/file/d/1YOe3IAFIw2Z3w51ZBF4GRuyQHyJ-s6Ff/view?usp=sharing).
-     |__ [Procesamiento de información](https://drive.google.com/file/d/1jWMq_wXODNoS14-3pmuyCOpdJjZWdy2E/view?usp=sharing).
+  - [Reto](https://drive.google.com/file/d/1YOe3IAFIw2Z3w51ZBF4GRuyQHyJ-s6Ff/view?usp=sharing).
+  - [Procesamiento de información](https://drive.google.com/file/d/1jWMq_wXODNoS14-3pmuyCOpdJjZWdy2E/view?usp=sharing).
 
 Para ejecutar el proyecto, en el directorio del proyecto (prj_nlmx), se deben ejecutar los siguientes comandos en la terminal:
 
