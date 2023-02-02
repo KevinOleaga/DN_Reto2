@@ -35,6 +35,8 @@ function Signup() {
                             })
                             var inputEmail = document.getElementById("inputEmail");
                             var inputPassword = document.getElementById("inputPassword");
+                            inputEmail.value = "";
+                            inputPassword.value = "";
                         } else if (res.data === "not exist") {
                             let timerInterval
                             Swal.fire({
